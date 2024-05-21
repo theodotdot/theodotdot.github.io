@@ -1,0 +1,82 @@
+:root {
+    --bg: #1e1e2e;
+    --fg: #cdd6f4;
+    --prompt: #fab387;
+    --header-bg: #181825;
+    --button-red: #f38ba8;
+    --button-yellow: #f9e2af;
+    --button-green: #a6e3a1;
+    --border: #45475a;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: var(--bg);
+    color: var(--fg);
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.terminal {
+    background: var(--bg);
+    border: 2px solid var(--border);
+    border-radius: 8px;
+    width: 80%;
+    max-width: 800px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.header {
+    background: var(--header-bg);
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid var(--border);
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+.buttons span {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    margin-right: 8px;
+    border-radius: 50%;
+}
+
+.close {
+    background: var(--button-red);
+}
+
+.minimize {
+    background: var(--button-yellow);
+}
+
+.maximize {
+    background: var(--button-green);
+}
+
+.title {
+    flex-grow: 1;
+    text-align: center;
+    color: var(--fg);
+    font-size: 1em;
+}
+
+.body {
+    padding: 15px;
+    overflow: auto;
+}
+
+.prompt {
+    color: var(--prompt);
+}
