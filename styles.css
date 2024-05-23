@@ -1,46 +1,95 @@
+:root {
+    --bg: #1e1e2e;
+    --fg: #cdd6f4;
+    --orange: #fab387;
+    --red: #f38ba8;
+    --yellow: #f9e2af;
+    --green: #a6e3a1;
+    --border: #45475a;
+    --blue: #89b4fa;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
-    background-color: #1e1e2e; /* Catppuccin Mocha base color */
-    color: #cdd6f4; /* Catppuccin Mocha text color */
-    font-family: 'Source Code Pro', monospace;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: 'Space Mono', monospace;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    margin: 0;
 }
 
 .terminal {
-    background-color: #181825; /* Slightly darker for terminal effect */
-    border-radius: 5px;
-    padding: 20px;
-    max-width: 600px;
-    width: 100%;
+    background: var(--bg);
+    border: 2px solid var(--border);
+    border-radius: 8px;
+    width: 80%;
+    max-width: 1200px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
-.prompt {
-    display: flex;
-    align-items: center;
+.title {
+    flex-grow: 1;
+    text-align: center;
+    color: var(--fg);
+    font-size: 1em;
 }
 
-.user {
-    color: #96CDFB; /* Catppuccin Mocha blue */
+.body {
+    padding: 15px;
+    overflow: auto;
 }
 
-.symbol {
-    color: #F5C2E7; /* Catppuccin Mocha pink */
+.prompt1 {
+    color: var(--red);
+    font-family: 'Space Mono', monospace;
+    font-weight: bold;
 }
 
-.output {
-    margin-left: 1.5em;
-    margin-bottom: 1em;
+.prompt2 {
+    color: var(--orange);
+    font-family: 'Space Mono', monospace;
+    font-weight: bold;
+}
+
+.command {
+    color: var(--green);
+    font-family: 'Space Mono', monospace;
+}
+
+.ascii-art {
+    white-space: pre;
+    font-family: 'Space Mono', monospace;
+    margin: 10px 0;
+    color: var(--fg);
+}
+
+.pfetch_title {
+    color: var(--red);
+    font-family: 'Space Mono', monospace;
+    font-weight: bold;
+}
+
+.host_name {
+    color: var(--blue);
+    font-family: 'Space Mono', monospace;
+    font-weight: bold;
 }
 
 a {
-    color: #ABE9B3; /* Catppuccin Mocha green */
-    text-decoration: none;
+    color: var(--prompt);
+    text-decoration: underline;
 }
 
 a:hover {
     text-decoration: underline;
+    color: var(--yellow);
+    font-family: 'Space Mono', monospace;
+    font-weight: bold;
 }
