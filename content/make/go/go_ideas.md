@@ -1,8 +1,14 @@
-# Golang
+---
+title: go project ideas
+draft: true
+tags:
+  - go
+  - dev
+---
 
-Project idea 1
+# Personal project ideas
 
-dbt companion/LSP
+## dbt companion/LSP
 
 - run in dbt directory able to find and parse profile and project
 - runs dbt compile and dbt run
@@ -11,7 +17,7 @@ dbt companion/LSP
 
 [https://github.com/yu-iskw/dbt-artifacts-parser](https://github.com/yu-iskw/dbt-artifacts-parser)
 
-TUI Telegram client
+## TUI telegram client
 
 https://core.telegram.org/tdlib/docs/
 
@@ -21,8 +27,12 @@ https://core.telegram.org/tdlib/getting-started
 
 [https://github.com/celestix/gotgproto](https://github.com/celestix/gotgproto)
 
-https://charm.sh/libs/
 
-CLI
+# Cool tutorials
 
-[https://github.com/charmbracelet/glow](https://github.com/charmbracelet/glow)
+## CLI kandan board with bubble tea
+[LINK](https://www.youtube.com/watch?v=ZA93qgdLUzM&list=PLLLtqOZfy0pcFoSIeGXO-SOaP9qLqd_H6)
+
+## Rebuilding task warrior in go
+[LINK](https://www.youtube.com/watch?v=yiFhQGJeRJk)
+Uses cobra and lip gloss

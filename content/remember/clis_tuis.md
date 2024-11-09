@@ -35,3 +35,11 @@ Use `mdtt -i filename.md` to edit a table from a file (in place).
 | `q`            | Quit              |
 | `?`            | Toggle help       |
 
+# vhs: terminal gifs as code
+
+[LINK](https://github.com/charmbracelet/vhs)
+
+Easy way to generate gifs of the terminal
+
+> [!note] Great for documentation
+> This is pretty elegant solution to document and show how programmes run
