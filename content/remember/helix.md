@@ -1,6 +1,6 @@
 ---
 title: Helix
-draft: true
+draft: false
 tags:
   - helix
   - zellij
@@ -35,3 +35,11 @@ To select comma or space separated words, we can use regex:
  - enter select mode
  - Type `\w+`
 
+
+# Language config
+
+## Markdown
+
+[markdown-oxide](https://oxide.md)
+
+[simple completion language server](https://github.com/estin/simple-completion-language-server) (for custom snippets)

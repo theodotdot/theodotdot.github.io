@@ -2,18 +2,13 @@
 title: 🍞
 draft: false
 tags:
-  - main
+  - learn
+  - make
+  - remember
+  - enjoy
 ---
 
-hi, here are the links:
-
-[[learn]]
+hi, miettes means breadcrumbs in french, in reference to grimm's hansel and gretel, hopefully no one eats mine.
 
 
-[[make]]
 
-
-[[remember]]
-
-
-[[enjoy]]

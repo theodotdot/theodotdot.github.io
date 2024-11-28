@@ -1,6 +1,6 @@
 ---
 title: CLIs and TUIs
-draft: true
+draft: false
 tags:
   - tools
   - dev
@@ -8,6 +8,7 @@ tags:
 
 # mdtt: markdown table editor
 
+[LINK](https://github.com/szktkfm/mdtt)
 Simple CLI markdown table editor.
 Use `mdtt -i filename.md` to edit a table from a file (in place).
 
@@ -43,3 +44,16 @@ Easy way to generate gifs of the terminal
 
 > [!note] Great for documentation
 > This is pretty elegant solution to document and show how programmes run
+
+
+# gtrash: rm replacement
+
+[LINK](https://github.com/umlx5h/gtrash)
+
+I aliased it to rm.
+
+Notable features:
+ - Recursive by default (no need to use `-r` for folders)
+ - `gtrash summary` to view the trash
+ - `gtrash find` to list the files in the trash
+ - **`gtrash restore` for the TUI to restore files**
