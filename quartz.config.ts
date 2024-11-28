@@ -19,6 +19,7 @@ const config: QuartzConfig = {
     baseUrl: "https://theodotdot.github.io/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
