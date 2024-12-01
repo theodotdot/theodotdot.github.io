@@ -1,7 +1,8 @@
 ---
 title: Music Production Notes
-draft: true
+draft: false
 tags:
+  - make
   - music
   - fl_studio
   - personal

@@ -2,6 +2,8 @@
 title: LSP config
 draft: false
 tags:
+  - remember
+  - linux
   - lsp
   - helix
   - tools

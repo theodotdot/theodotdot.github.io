@@ -1,6 +1,6 @@
 ---
 title: Data Engineering Resources
-draft: true
+draft: false
 tags:
   - remember
   - data_engineering

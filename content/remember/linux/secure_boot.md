@@ -2,6 +2,7 @@
 title: Secure boot
 draft: false
 tags:
+  - remember
   - linux
   - cachyos
 ---

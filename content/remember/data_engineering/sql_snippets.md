@@ -1,3 +1,12 @@
+---
+title: SQL snippets
+draft: false
+tags:
+  - remember
+  - data_engineering
+  - sql
+---
+
 # SQL snippets
 
 Convert array string into array of integers (or something else)

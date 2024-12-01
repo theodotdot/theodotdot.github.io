@@ -2,6 +2,8 @@
 title: CLIs and TUIs
 draft: false
 tags:
+  - remember
+  - linux
   - tools
   - dev
 ---
@@ -57,3 +59,8 @@ Notable features:
  - `gtrash summary` to view the trash
  - `gtrash find` to list the files in the trash
  - **`gtrash restore` for the TUI to restore files**
+
+# udisks: un/mounting disks
+[Arch wiki page](https://wiki.archlinux.org/title/Udisks)
+
+Use `udisksctl mount -b /path/to/disk` to mount and `unmount` to... you get it.

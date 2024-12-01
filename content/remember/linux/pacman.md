@@ -2,6 +2,7 @@
 title: Pacman
 draft: false
 tags:
+  - remember
   - linux
   - cachyos
   - pacman

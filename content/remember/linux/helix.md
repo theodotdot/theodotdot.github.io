@@ -2,6 +2,8 @@
 title: Helix
 draft: false
 tags:
+  - remember
+  - linux
   - helix
   - zellij
   - tools

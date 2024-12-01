@@ -1,7 +1,8 @@
 ---
 title: go project ideas
-draft: true
+draft: false
 tags:
+  - make
   - go
   - dev
 ---
@@ -16,6 +17,7 @@ tags:
 - companion packages like osmosis
 
 [https://github.com/yu-iskw/dbt-artifacts-parser](https://github.com/yu-iskw/dbt-artifacts-parser)
+[[go_ideas#Building an LSP in go]]
 
 ## TUI telegram client
 
@@ -36,3 +38,6 @@ https://core.telegram.org/tdlib/getting-started
 ## Rebuilding task warrior in go
 [LINK](https://www.youtube.com/watch?v=yiFhQGJeRJk)
 Uses cobra and lip gloss
+
+## Building an LSP in go
+[LINK](https://www.youtube.com/watch?v=YsdlcQoHqPY)

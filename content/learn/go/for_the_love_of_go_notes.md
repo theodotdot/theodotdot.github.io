@@ -1,3 +1,12 @@
+---
+title: For the love of Go
+draft: false
+tags:
+  - learn
+  - go
+  - dev
+---
+
 # For the love of Go, my notes
 
 ## Importing modules from the internet
