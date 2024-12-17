@@ -1,5 +1,5 @@
 ---
-title: Hyprland config
+title: Hyprland and desktop config
 draft: false
 tags:
   - remember
@@ -27,7 +27,10 @@ WIP (too lazy for now)
 - display manager
   - greetd
   - tuigreet
-- 
+- wallpaper utilities
+  - swww
+  - waypaper
+- walker (anything launcher)
 
 > [!info] Optional packages
 - hyprpicker
@@ -35,4 +38,3 @@ WIP (too lazy for now)
 - catppuccin-gtk-theme-macchiato (from AUR, GTK theme, abandonned)
 - nwg-look (to set themes)
 - [spicetify](https://spicetify.app/docs/getting-started/) (spotify theming)
-- overskride (bluetooth management, not a lib)

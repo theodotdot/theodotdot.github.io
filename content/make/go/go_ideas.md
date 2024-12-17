@@ -41,3 +41,8 @@ Uses cobra and lip gloss
 
 ## Building an LSP in go
 [LINK](https://www.youtube.com/watch?v=YsdlcQoHqPY)
+
+# Useful go resources
+
+[awesome-go](https://github.com/avelino/awesome-go) projects
+[zelligo](https://gitlab.com/scabala/zelligo)
