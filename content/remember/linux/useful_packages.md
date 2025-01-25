@@ -8,6 +8,15 @@ tags:
   - dev
 ---
 
+# yazi file explorer
+
+## plugins
+
+[git.yazi](https://github.com/yazi-rs/plugins/tree/main/git.yazi)
+[jump-to-char](https://github.com/yazi-rs/plugins/tree/main/jump-to-char.yazi)
+[mount](https://github.com/yazi-rs/plugins/tree/main/mount.yazi) not used
+
+
 # mdtt: markdown table editor
 
 [LINK](https://github.com/szktkfm/mdtt)
@@ -119,3 +128,12 @@ Used to catppuccinify wallpapers but can be used to apply any LUT to any image.
 [Github link](https://github.com/ahrm/sioyek)
 
 Multi platform PDF viewer, simple and solid
+
+# presenterm
+
+Lightweight programmee to create markdown presentations in the terminal
+
+[Github link](https://github.com/mfontanini/presenterm)
+
+Just read the [docs](https://mfontanini.github.io/presenterm/introduction.html) to get started.
+
