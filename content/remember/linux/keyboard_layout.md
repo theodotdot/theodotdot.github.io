@@ -10,7 +10,7 @@ tags:
 
 # Layouts
 
-I use the US international with dead keys, and Qwerty Lafayette layouts.
+I use ~~US international with dead keys~~ Ergo-L for my ergo split keyboards and Qwerty Lafayette for the rest.
 
 # Lafayette
 
@@ -28,3 +28,10 @@ Simply run those commands:
 ```
 
 Then, the layout `fr, lafayette` will be available.
+
+
+# Ergo-L
+
+[ergol.org](https://ergol.org/)
+
+It is available for any distro running xkeyboard-config<=2.42!

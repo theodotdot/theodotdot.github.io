@@ -76,8 +76,4 @@ Use `(` and `)` respectively to cycle the primary selection backwards or forward
 Use `Alt+(` and `Alt+)` respectively to cycle the selections' contents backwards or forwards.
 
 # Language config
-
-## Markdown
-[markdown-oxide](https://oxide.md)
-
-[simple completion language server](https://github.com/estin/simple-completion-language-server) (for custom snippets)
+See [[lsp_config]]

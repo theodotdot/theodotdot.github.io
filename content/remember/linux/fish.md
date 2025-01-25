@@ -1,5 +1,5 @@
 ---
-title: Dotfiles
+title: fish shell
 draft: false
 tags:
   - remember
