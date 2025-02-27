@@ -5,6 +5,7 @@ tags:
   - remember
   - linux
   - hyprland
+  - tools
 ---
 
 

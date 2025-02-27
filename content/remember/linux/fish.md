@@ -17,3 +17,8 @@ Using bash as the system shell with `exec fish` as last line of .bashrc see [thi
 
 ## Migrate from zsh
 [zsh-history-to-fish](https://github.com/rsalmei/zsh-history-to-fish)
+
+# Generating completions
+```fish
+fish_update_completions
+```

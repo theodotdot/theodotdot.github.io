@@ -6,6 +6,7 @@ tags:
   - linux
   - tools
   - dev
+  - go
 ---
 
 # yazi file explorer
@@ -136,4 +137,21 @@ Lightweight programmee to create markdown presentations in the terminal
 [Github link](https://github.com/mfontanini/presenterm)
 
 Just read the [docs](https://mfontanini.github.io/presenterm/introduction.html) to get started.
+
+# gotools
+
+
+Simple utility to check for updates for packages in the `go install` location
+
+[Gitlab link](https://gitlab.com/zephyrtronium/gotools)
+
+To check for updates:
+```
+gotools
+```
+
+To update (up to 8 at a time):
+```
+gotools -u -q -j 8
+```
 

@@ -6,8 +6,6 @@ tags:
   - linux
   - dev
   - tools
-  - helix
-  - hyprland
 ---
 
 # Chezmoi
