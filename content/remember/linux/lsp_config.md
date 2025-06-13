@@ -15,7 +15,8 @@ tags:
 
 # Markdown
  - marksman
- - markdown-oxide
+ - [markdown-oxide](https://oxide.md)
+ - [simple completion language server](https://github.com/estin/simple-completion-language-server) (for custom snippets)
 
 # Go
  - go install golang.org/x/tools/gopls@latest                            # LSP
@@ -23,7 +24,3 @@ tags:
  - go install golang.org/x/tools/cmd/goimports@latest                    # Formatter
  - go install github.com/nametake/golangci-lint-langserver@latest        # Linter
  - go install github.com/golangci/golangci-lint/cmd/golangci-lint@latest # Linter cli
-## Markdown
-[markdown-oxide](https://oxide.md)
-
-[simple completion language server](https://github.com/estin/simple-completion-language-server) (for custom snippets)

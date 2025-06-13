@@ -9,7 +9,7 @@ tags:
   - arch
 ---
 
-# Autoremove unused dependencies/packages
+# Auto-remove unused dependencies/packages
 ```bash
 pacman -R $(pacman -Qdtq)
 ```
